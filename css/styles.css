@@ -1,0 +1,250 @@
+.body,
+p {
+  font-family: "Montserrat" sans-serif;
+  color: #808080;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+  padding: 3% 15%;
+}
+
+/* navbar */
+
+#title .navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+#navbarall {
+  padding: 0rem 0rem 4.5rem;
+}
+
+#title .navbar-nav {
+  padding-left: 30rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: "Montserrat" lighter;
+}
+
+#title h1 {
+  font-size: 3.5rem;
+  font-weight: bolder;
+  line-height: 4.7rem;
+  text-align: center;
+}
+
+/* download button */
+
+.download-button {
+  margin: 5% 0% 5% 40%;
+}
+
+.iphone-img {
+  transform: rotate(25deg);
+  width: 60%;
+}
+
+/* Features */
+
+#features {
+  padding: 15rem 10rem;
+}
+
+.feature-icon {
+  color: #ff4c68;
+  font-size: 3rem;
+  padding-bottom: 1.5rem;
+  margin: auto 8rem auto 8rem;
+}
+
+/* hover */
+
+.check-icon:hover {
+  color: #00c903;
+}
+
+.target-icon:hover {
+  color: #000;
+}
+
+.heart-icon:hover {
+  color: #ff0000;
+}
+
+#features h3 {
+  font-size: 2.2rem;
+  font-weight: bold;
+  text-align: center;
+  color: #ff4c68;
+}
+
+.check-txt,
+.target-txt {
+  margin-bottom: 3.9rem;
+}
+
+.heart-txt {
+  margin-bottom: 1.1rem;
+}
+
+#features p {
+  text-align: center;
+  font-weight: bold;
+}
+
+#feature-card {
+  padding: auto 20rem;
+}
+
+/* testimonials */
+
+#testimonials {
+  background-color: #ff4c68;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+  font-family: "Montserrat" sans-serif;
+}
+
+#testimonials img {
+  border-radius: 50%;
+  width: 17%;
+}
+
+/* slideshow */
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.slide-btn {
+  margin-left: 1%;
+}
+
+#press {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 3rem 0rem;
+  margin-bottom: 6rem;
+}
+
+#press img {
+  width: 15%;
+}
+
+/* pricing */
+
+#pricing {
+  padding: 1rem 2rem 10rem;
+  text-align: center;
+  color: #ff4c68;
+}
+
+#pricing h2{
+    font-weight: bolder;
+    font-size: 3rem;
+}
+
+#pricing h5{
+    font-weight: bolder;
+}
+
+#pricing .a-planp {
+  padding-bottom: 8.5rem;
+}
+
+.row {
+  justify-content: center;
+}
+
+.price-cards {
+  margin: auto 1rem;
+}
+
+.card-header {
+  padding-right: 0.75rem 1.25rem;
+  margin: auto -0.8rem;
+}
+
+/* Call To Action */
+
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 8rem 0rem;
+}
+
+#cta h3 {
+  color: #fff;
+  font-weight: bolder;
+  font-size: 3.5rem;
+  padding: 0rem 12rem;
+}
+
+#cta .cta-download {
+  padding: 3rem 0rem;
+}
+#cta .cta-dwnld-btn {
+  margin-left: 1rem;
+}
+
+
+/* footer */
+
+#footer{
+    text-align: center;
+    padding: 5rem 0rem 1rem;
+}
+
+#footer i{
+    font-size: 2rem;
+    padding: 0rem 0.5rem;
+    cursor: pointer;
+}
+
+.link-adarsh{
+  color: #808080;
+  text-decoration: none;
+  font-weight: lighter;
+}
+
+#footer p{
+    padding-top: 2rem;
+}
+
+#footer h3 img{
+    border-radius: 60%;
+}
+
+#footer .twt:hover{
+    color: #00acee;
+}
+
+#footer .fb:hover{
+    color: #3b5998;
+}
+
+#footer .ig:hover{
+    color: #f52779;
+}
+
+#footer .yt:hover{
+    color:  #ff1717;
+}
+#footer .gm:hover{
+    color: #d91e1e;
+}
+
+#footer h3 i:hover{
+   color: red;
+}
